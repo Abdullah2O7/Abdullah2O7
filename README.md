@@ -1,15 +1,7 @@
 - 👋 Hi, I’m Abdullah Mohamed from Egypt
-- 👀 I’m a software Test Engineer Intern at ItWorx Education.
-  
-- I have gained Experience in :
-   - Web & Mobile Testing
-   - Test Case Writing & Executing
-   - Bug Tracking & Reporting
-   - API Test using Postman
-   - Test Automation with Selenium WebDriver.
-   - Excellent Knowledge of TestNG and Cucumber.
-   - Excellent Knowledge of DataBase (SQL).
-   - Excellent Knowledge of Programming languages(JAVA, C++).
-   - Excellent Knowledge of OOP.
+- 👀 I had the opportunity to work as a SW Testing Engineer Intern at three companies: ITWORKS Education, eSpace and lean node.
+
+- Here is my resume for review:
+https://drive.google.com/file/d/1CyOynZ124D5bNuxK-z92nhFLgYfhnBbg/view?usp=sharing
     
 - 📫 How to reach me >> abdullah.mohamed1047@gmail.com
